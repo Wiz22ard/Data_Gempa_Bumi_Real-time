@@ -1,0 +1,33 @@
+name: Update Data Gempa Harian
+
+on:
+  schedule:
+    - cron: '0 4 * * *'  # Setiap hari jam 07:30 WIB (UTC+7)
+  workflow_dispatch:  # Biar bisa dijalankan manual juga
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v4
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: 3.11
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Run scraper
+      run: python scrape.py
+
+    - name: Commit & push if there are changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add gempa_realtime.csv
+        git diff --cached --quiet || git commit -m "update: data gempa otomatis"
+        git push
