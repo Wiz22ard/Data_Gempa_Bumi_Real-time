@@ -2,9 +2,12 @@ name: Update Data Gempa Harian
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # Setiap hari jam 07:30 WIB (UTC+7)
+    - cron: '0 4 * * *'
   workflow_dispatch:  # Biar bisa dijalankan manual juga
 
+permissions:
+  contents: write  
+  
 jobs:
   update:
     runs-on: ubuntu-latest
