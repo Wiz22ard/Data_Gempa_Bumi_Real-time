@@ -757,3 +757,72 @@ Tanggal,Waktu (WIB),Magnitudo,Kedalaman (km),Koordinat,Wilayah
 03 Jul 2025,12:30:06,3.2,45,"9.65,124.09",Timor Region
 03 Jul 2025,11:53:17,4.6,430,"4.62,125.58",Banda Sea
 03 Jul 2025,07:43:49,4.9,41,"4.82,94.64",Off West Coast of Northern Sumatra
+05 Jul 2025,10:05:27,3.0,169,"8.32,119.92","Flores Region, Indonesia"
+05 Jul 2025,10:01:23,3.1,10,"0.49,123.65","Minahassa Peninsula, Sulawesi"
+05 Jul 2025,09:46:16,2.6,10,"1.26,122.62","Minahassa Peninsula, Sulawesi"
+05 Jul 2025,08:00:44,3.5,143,"2.76,125.62","Talaud Islands, Indonesia"
+05 Jul 2025,07:47:55,3.1,24,"3.87,95.9",Off West Coast of Northern Sumatra
+05 Jul 2025,07:47:26,2.9,37,"9.81,123.48",Timor Region
+05 Jul 2025,07:28:19,3.6,20,"3.05,139.32","West Papua, Indonesia"
+05 Jul 2025,06:29:50,2.4,30,"0.29,122.91","Minahassa Peninsula, Sulawesi"
+05 Jul 2025,06:12:39,4.4,12,"23.75,121.86",Taiwan
+05 Jul 2025,05:50:36,4.4,28,"0.19,122.99","Minahassa Peninsula, Sulawesi"
+05 Jul 2025,05:23:34,1.8,13,"8.84,118.2","Sumbawa Region, Indonesia"
+05 Jul 2025,05:17:19,2.3,10,"2.27,120.81","Sulawesi, Indonesia"
+05 Jul 2025,05:15:18,2.4,10,"2.28,120.82","Sulawesi, Indonesia"
+05 Jul 2025,05:01:33,2.3,10,"3.39,128.66","Seram, Indonesia"
+05 Jul 2025,04:43:30,3.2,10,"3.89,127.74","Seram, Indonesia"
+05 Jul 2025,04:29:42,5.4,31,"29.35,129.44","Ryukyu Islands, Japan"
+05 Jul 2025,03:41:11,2.6,10,"3.42,128.66","Seram, Indonesia"
+05 Jul 2025,02:52:41,2.6,83,"8.92,118.2","Sumbawa Region, Indonesia"
+05 Jul 2025,02:50:12,2.1,10,"2.38,120.87","Sulawesi, Indonesia"
+05 Jul 2025,01:56:31,2.3,34,"9.7,119.18","Sumba Region, Indonesia"
+05 Jul 2025,01:14:34,5.2,13,"36.8,141.84","Near East Coast of Honshu, Japan"
+05 Jul 2025,01:05:25,2.3,10,"3.43,128.67","Seram, Indonesia"
+05 Jul 2025,00:53:47,2.5,10,"3.4,128.66","Seram, Indonesia"
+05 Jul 2025,00:50:36,2.8,10,"3.43,128.66","Seram, Indonesia"
+05 Jul 2025,00:48:13,2.5,272,"0.07,121.87","Minahassa Peninsula, Sulawesi"
+05 Jul 2025,00:21:21,4.2,11,"3.91,126.88","Buru, Indonesia"
+04 Jul 2025,23:40:41,2.6,10,"3.41,128.68","Seram, Indonesia"
+04 Jul 2025,23:34:09,2.3,10,"3.43,128.68","Seram, Indonesia"
+04 Jul 2025,23:11:49,2.9,63,"9.03,123.91",Timor Region
+04 Jul 2025,23:05:06,2.5,141,"0.11,123.12","Minahassa Peninsula, Sulawesi"
+04 Jul 2025,23:01:04,2.7,10,"8.32,110.27","Java, Indonesia"
+04 Jul 2025,22:47:49,5.7,23,"57.08,67.22 BB",Drake Passage
+04 Jul 2025,22:34:00,3.5,365,"7.49,120.32",Flores Sea
+04 Jul 2025,22:09:36,3.5,10,"2.39,120.74","Sulawesi, Indonesia"
+04 Jul 2025,22:06:57,3.2,10,"3.48,128.64","Seram, Indonesia"
+04 Jul 2025,21:58:44,3.3,91,"8.61,115","Bali Region, Indonesia"
+04 Jul 2025,21:24:28,4.9,78,"5.69,126.51","Mindanao, Philippines"
+04 Jul 2025,20:59:35,4.8,57,"3.48,128.7","Seram, Indonesia"
+04 Jul 2025,19:30:33,4.4,177,"5.3,129.96",Banda Sea
+04 Jul 2025,19:18:56,2.8,37,"1.26,126.42",Northern Molucca Sea
+04 Jul 2025,18:33:49,3.7,204,"2.69,128.41","Halmahera, Indonesia"
+04 Jul 2025,18:21:02,2.3,8,"4.1,121.9","Sulawesi, Indonesia"
+04 Jul 2025,18:00:09,3.8,18,"8.98,106.49","South of Java, Indonesia"
+04 Jul 2025,17:46:25,2.4,20,"4.34,122.44","Sulawesi, Indonesia"
+04 Jul 2025,16:52:21,2.7,42,"3.7,126.34","Talaud Islands, Indonesia"
+04 Jul 2025,15:55:35,2.9,160,"1.55,99.51","Northern Sumatra, Indonesia"
+04 Jul 2025,14:58:35,2.3,26,"9.81,119.64","Sumba Region, Indonesia"
+04 Jul 2025,14:36:44,3.8,10,"6.19,95.1","Nicobar Islands, India Region"
+04 Jul 2025,14:34:11,2.2,12,"8.24,119.7","Flores Region, Indonesia"
+04 Jul 2025,14:09:28,3.5,10,"6.09,95.01","Nicobar Islands, India Region"
+04 Jul 2025,13:51:09,3.5,65,"0.11,123.21","Minahassa Peninsula, Sulawesi"
+04 Jul 2025,13:21:55,3.4,15,"6.16,95.13","Nicobar Islands, India Region"
+04 Jul 2025,13:19:13,4.7,10,"6.04,95.18","Nicobar Islands, India Region"
+04 Jul 2025,13:03:36,3.9,10,"8.87,105.76","South of Java, Indonesia"
+04 Jul 2025,12:57:33,2.5,89,"8.74,118.89","Sumbawa Region, Indonesia"
+04 Jul 2025,12:56:28,2.7,11,"6.11,95.09","Nicobar Islands, India Region"
+04 Jul 2025,12:52:13,3.3,10,"6.14,94.98","Nicobar Islands, India Region"
+04 Jul 2025,12:50:33,1.8,79,"0.62,122.27","Minahassa Peninsula, Sulawesi"
+04 Jul 2025,12:50:20,3.9,10,"6.15,94.87","Nicobar Islands, India Region"
+04 Jul 2025,12:48:33,3.4,10,"6.15,95","Nicobar Islands, India Region"
+04 Jul 2025,12:39:53,4.8,10,"6.15,94.89","Nicobar Islands, India Region"
+04 Jul 2025,12:33:51,5.3,10,"6.2,94.98","Nicobar Islands, India Region"
+04 Jul 2025,12:25:19,3.4,10,"2.56,128.67",Ceram Sea
+04 Jul 2025,12:16:48,2.6,23,"7.99,107.9","Java, Indonesia"
+04 Jul 2025,12:07:42,2.4,26,"9.45,119.66","Sumba Region, Indonesia"
+04 Jul 2025,11:57:19,2.5,10,"8.87,124.12",Timor Region
+04 Jul 2025,11:53:51,2.3,18,"7.83,118.68",Flores Sea
+04 Jul 2025,11:39:03,4.0,10,"2.56,121.3","Sulawesi, Indonesia"
+04 Jul 2025,11:31:08,3.4,13,"1.31,122.42","Minahassa Peninsula, Sulawesi"
