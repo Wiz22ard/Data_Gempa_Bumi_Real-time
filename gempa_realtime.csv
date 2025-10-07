@@ -6805,3 +6805,55 @@ Tanggal,Waktu (WIB),Magnitudo,Kedalaman (km),Koordinat,Wilayah
 05 Oct 2025,08:45:49 WIB,5.1,56,"18.4,119.9",Philippine Islands Region
 05 Oct 2025,06:04:14 WIB,3.6,16,"9.55,113.76","South of Java, Indonesia"
 05 Oct 2025,05:36:56 WIB,4.2,15,"9.69,118.7","Sumbawa Region, Indonesia"
+07 Oct 2025,11:14:04 WIB,4.9,45,"5.52,126.57","Mindanao, Philippines"
+07 Oct 2025,11:06:39 WIB,1.4,10,"4.95,119.65","Sulawesi, Indonesia"
+07 Oct 2025,10:53:55 WIB,3.1,10,"2.55,134.39","West Papua Region, Indonesia"
+07 Oct 2025,10:27:25 WIB,2.6,19,"8.1,120.5","Flores Region, Indonesia"
+07 Oct 2025,10:22:24 WIB,2.5,12,"8.19,120.56","Flores Region, Indonesia"
+07 Oct 2025,10:18:17 WIB,2.3,156,"8.44,119.86","Flores Region, Indonesia"
+07 Oct 2025,08:54:18 WIB,3.4,171,"8.24,123.95","Flores Region, Indonesia"
+07 Oct 2025,08:52:44 WIB,3.7,23,"1.65,138.98",Near North Coast of West Papua
+07 Oct 2025,07:03:58 WIB,4.9,10,"10.31,122.22","Panay, Philippines"
+07 Oct 2025,06:58:10 WIB,4.4,16,"3.54,127.43","Talaud Islands, Indonesia"
+07 Oct 2025,06:41:02 WIB,2.7,10,"4.15,97.51","Northern Sumatra, Indonesia"
+07 Oct 2025,06:03:27 WIB,2.7,10,"2.55,98.63","Northern Sumatra, Indonesia"
+07 Oct 2025,05:32:10 WIB,2.1,10,"2,120.5","Sulawesi, Indonesia"
+07 Oct 2025,04:54:11 WIB,3.3,25,"1.27,126.09",Northern Molucca Sea
+07 Oct 2025,04:37:37 WIB,3.0,10,"8.99,111.62","Java, Indonesia"
+07 Oct 2025,04:11:06 WIB,2.9,13,"0.67,131.82","West Papua Region, Indonesia"
+07 Oct 2025,03:17:17 WIB,1.5,10,"0.76,119.81","Minahassa Peninsula, Sulawesi"
+07 Oct 2025,03:11:38 WIB,2.1,10,"1.3,120.65","Sulawesi, Indonesia"
+07 Oct 2025,03:05:59 WIB,1.9,10,"6.61,107.64","Java, Indonesia"
+07 Oct 2025,02:10:06 WIB,2.2,65,"8.14,112.82","Java, Indonesia"
+07 Oct 2025,01:59:38 WIB,3.1,179,"2.29,102.24","Southern Sumatra, Indonesia"
+07 Oct 2025,01:58:04 WIB,3.2,5,"3.27,126.57","Talaud Islands, Indonesia"
+07 Oct 2025,00:11:10 WIB,5.4,55,"7.96,148.56",Papua New Guinea Region
+06 Oct 2025,23:06:30 WIB,4.0,69,"0.75,125.26",Northern Molucca Sea
+06 Oct 2025,22:55:30 WIB,2.1,9,"1.47,127.79","Halmahera, Indonesia"
+06 Oct 2025,22:54:31 WIB,2.0,43,"2.56,121.2","Sulawesi, Indonesia"
+06 Oct 2025,22:33:05 WIB,2.2,11,"2.5,121.18","Sulawesi, Indonesia"
+06 Oct 2025,22:32:57 WIB,3.8,215,"4.91,129.67",Banda Sea
+06 Oct 2025,22:28:47 WIB,2.3,8,"2.5,121.19","Sulawesi, Indonesia"
+06 Oct 2025,22:07:33 WIB,2.2,10,"4.42,121.8","Sulawesi, Indonesia"
+06 Oct 2025,22:01:00 WIB,1.8,83,"0.68,122.21","Minahassa Peninsula, Sulawesi"
+06 Oct 2025,21:47:40 WIB,1.6,10,"2.44,120.89","Sulawesi, Indonesia"
+06 Oct 2025,21:37:28 WIB,2.3,81,"0.62,122.21","Minahassa Peninsula, Sulawesi"
+06 Oct 2025,21:31:59 WIB,3.1,102,"1.71,127.21","Halmahera, Indonesia"
+06 Oct 2025,20:53:40 WIB,2.9,82,"0.51,122.24","Minahassa Peninsula, Sulawesi"
+06 Oct 2025,19:48:29 WIB,3.4,144,"2.08,128.29","Halmahera, Indonesia"
+06 Oct 2025,19:08:42 WIB,5.1,586,"21.15,175.53",South of Fiji Islands
+06 Oct 2025,18:57:53 WIB,2.4,22,"4.27,122.5","Sulawesi, Indonesia"
+06 Oct 2025,17:11:59 WIB,5.2,10,"0.83,92.9",Off West Coast of Northern Sumatra
+06 Oct 2025,15:29:49 WIB,2.0,10,"1.41,120.25","Sulawesi, Indonesia"
+06 Oct 2025,15:24:13 WIB,1.2,10,"1.39,120.03","Sulawesi, Indonesia"
+06 Oct 2025,15:22:36 WIB,3.1,10,"4.15,97.51","Northern Sumatra, Indonesia"
+06 Oct 2025,15:03:59 WIB,2.9,45,"1.67,100.75","Southern Sumatra, Indonesia"
+06 Oct 2025,15:01:30 WIB,2.4,10,"8.19,117.69","Sumbawa Region, Indonesia"
+06 Oct 2025,14:07:00 WIB,2.9,10,"3.8,122.53","Sulawesi, Indonesia"
+06 Oct 2025,13:25:44 WIB,4.2,10,"0.94,126.17",Northern Molucca Sea
+06 Oct 2025,12:56:02 WIB,4.6,543,"6.13,123.73","Mindanao, Philippines"
+06 Oct 2025,12:42:49 WIB,2.7,10,"4.14,97.46","Northern Sumatra, Indonesia"
+06 Oct 2025,11:50:36 WIB,3.4,13,"9.1,113.01","South of Java, Indonesia"
+06 Oct 2025,11:28:55 WIB,3.7,107,"5.35,131.09",Banda Sea
+06 Oct 2025,08:32:43 WIB,3.7,10,"1.17,97.22","Northern Sumatra, Indonesia"
+06 Oct 2025,07:25:35 WIB,2.9,10,"6.71,105.04","Sunda Strait, Indonesia"
