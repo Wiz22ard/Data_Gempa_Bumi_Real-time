@@ -8599,3 +8599,65 @@ Tanggal,Waktu (WIB),Magnitudo,Kedalaman (km),Koordinat,Wilayah
 01 Nov 2025,12:14:24 WIB,3.7,75,"9.49,121.31",Savu Sea
 01 Nov 2025,12:02:50 WIB,3.5,21,"1.87,100.37","Southern Sumatra, Indonesia"
 01 Nov 2025,11:32:35 WIB,5.1,15,"1.85,139.42",Near North Coast of West Papua
+03 Nov 2025,11:14:10 WIB,4.8,10,"5.14,125.33","Mindanao, Philippines"
+03 Nov 2025,10:55:15 WIB,5.6,148,"49.66,155.69",Kuril Islands
+03 Nov 2025,10:42:18 WIB,4.0,11,"4.58,102","Southern Sumatra, Indonesia"
+03 Nov 2025,09:41:03 WIB,3.1,10,"2.73,135.35","West Papua Region, Indonesia"
+03 Nov 2025,09:14:49 WIB,3.0,51,"9.12,119.38","Sumba Region, Indonesia"
+03 Nov 2025,09:06:45 WIB,2.8,29,"4.22,95.86","Northern Sumatra, Indonesia"
+03 Nov 2025,08:30:40 WIB,2.5,59,"9.29,119.02","Sumba Region, Indonesia"
+03 Nov 2025,07:27:17 WIB,2.8,26,"9.04,124",Timor Region
+03 Nov 2025,05:59:36 WIB,4.7,10,"8.03,128.78",Timor Sea
+03 Nov 2025,05:29:34 WIB,2.7,10,"2.06,120.66","Sulawesi, Indonesia"
+03 Nov 2025,05:10:00 WIB,4.8,144,"19.57,170.44",Vanuatu Islands
+03 Nov 2025,03:59:00 WIB,3.4,10,"1.76,139.05",Near North Coast of West Papua
+03 Nov 2025,03:29:12 WIB,4.1,10,"0.33,125.78",Northern Molucca Sea
+03 Nov 2025,03:28:59 WIB,6.2,10,"36.42,67.6","Hindu Kush Region, Afghanistan"
+03 Nov 2025,03:07:54 WIB,2.5,28,"9.35,119.76","Sumba Region, Indonesia"
+03 Nov 2025,03:03:26 WIB,2.9,13,"5.63,103.22","Southern Sumatra, Indonesia"
+03 Nov 2025,02:24:40 WIB,3.2,24,"2,139.07",Near North Coast of West Papua
+03 Nov 2025,02:19:40 WIB,2.9,10,"3.6,129.62","Seram, Indonesia"
+03 Nov 2025,02:06:54 WIB,5.3,91,"9.65,122.87","Negros, Philippines"
+03 Nov 2025,01:56:41 WIB,3.0,10,"8.04,123.58","Flores Region, Indonesia"
+03 Nov 2025,01:52:14 WIB,2.6,30,"6.87,105.16","Sunda Strait, Indonesia"
+03 Nov 2025,01:36:03 WIB,2.7,38,"1.03,126.22",Northern Molucca Sea
+03 Nov 2025,01:00:52 WIB,4.0,10,"6.67,92.11","Nicobar Islands, India Region"
+03 Nov 2025,00:25:06 WIB,3.3,10,"4.35,100.96","Southwest of Sumatra, Indonesia"
+03 Nov 2025,00:19:55 WIB,2.1,17,"10.02,120.38","Sumba Region, Indonesia"
+03 Nov 2025,00:10:14 WIB,2.9,73,"0.26,123.14","Minahassa Peninsula, Sulawesi"
+02 Nov 2025,23:56:17 WIB,1.9,11,"8.27,115.32","Bali Region, Indonesia"
+02 Nov 2025,23:34:26 WIB,4.1,28,"5.01,127.18",Philippine Islands Region
+02 Nov 2025,23:05:22 WIB,2.4,10,"0.06,119.69","Minahassa Peninsula, Sulawesi"
+02 Nov 2025,23:04:22 WIB,2.4,10,"0.08,119.65","Minahassa Peninsula, Sulawesi"
+02 Nov 2025,22:59:06 WIB,2.7,46,"9.37,123.95",Timor Region
+02 Nov 2025,22:42:43 WIB,2.9,32,"4.62,126.2","Talaud Islands, Indonesia"
+02 Nov 2025,22:42:25 WIB,2.7,38,"2.8,140.27",Near North Coast of West Papua
+02 Nov 2025,22:26:21 WIB,2.5,23,"4.09,96.07","Northern Sumatra, Indonesia"
+02 Nov 2025,22:18:55 WIB,3.9,70,"11.94,121.8","South of Timor, Indonesia"
+02 Nov 2025,21:53:04 WIB,2.7,10,"9.11,117.15","Sumbawa Region, Indonesia"
+02 Nov 2025,21:50:10 WIB,3.3,20,"3.65,126.62","Talaud Islands, Indonesia"
+02 Nov 2025,21:32:35 WIB,2.8,11,"8.38,121.4","Flores Region, Indonesia"
+02 Nov 2025,19:59:34 WIB,3.7,26,"2.5,128.12","Halmahera, Indonesia"
+02 Nov 2025,19:38:43 WIB,2.9,129,"0.01,123.36","Minahassa Peninsula, Sulawesi"
+02 Nov 2025,19:30:34 WIB,3.2,170,"8.54,121.08","Flores Region, Indonesia"
+02 Nov 2025,19:04:39 WIB,4.5,130,"4.48,125.61","Talaud Islands, Indonesia"
+02 Nov 2025,18:38:24 WIB,3.1,10,"1.61,139.05",Near North Coast of West Papua
+02 Nov 2025,18:35:16 WIB,2.8,10,"1.72,99.15","Northern Sumatra, Indonesia"
+02 Nov 2025,18:18:48 WIB,4.4,10,"1.71,123","Minahassa Peninsula, Sulawesi"
+02 Nov 2025,18:15:46 WIB,4.9,24,"1.95,139.04",Near North Coast of West Papua
+02 Nov 2025,18:04:59 WIB,2.3,10,"0.95,100.7","Southern Sumatra, Indonesia"
+02 Nov 2025,17:40:07 WIB,2.8,12,"9.73,118.58","Sumbawa Region, Indonesia"
+02 Nov 2025,16:38:43 WIB,2.5,35,"2.02,120.59","Sulawesi, Indonesia"
+02 Nov 2025,15:22:05 WIB,2.5,30,"7.83,119",Flores Sea
+02 Nov 2025,14:58:54 WIB,3.0,114,"8.55,119.02","Flores Region, Indonesia"
+02 Nov 2025,14:36:54 WIB,2.6,17,"0.37,128.41","Halmahera, Indonesia"
+02 Nov 2025,13:58:44 WIB,3.8,110,"7.99,110.95","Java, Indonesia"
+02 Nov 2025,13:47:32 WIB,2.9,5,"4.02,121.76","Sulawesi, Indonesia"
+02 Nov 2025,13:21:20 WIB,3.7,25,"3.56,126.93","Talaud Islands, Indonesia"
+02 Nov 2025,12:48:18 WIB,2.6,5,"4.16,97.48","Northern Sumatra, Indonesia"
+02 Nov 2025,12:21:23 WIB,3.0,5,"4.78,101.82","Southern Sumatra, Indonesia"
+02 Nov 2025,12:13:27 WIB,4.2,5,"7.03,130.19","Tanimbar Islands Region, Indonesia"
+02 Nov 2025,12:10:00 WIB,2.0,23,"8.29,116.43","Sumbawa Region, Indonesia"
+02 Nov 2025,11:30:45 WIB,4.2,77,"6.07,131.6","Tanimbar Islands Region, Indonesia"
+02 Nov 2025,11:27:46 WIB,3.1,10,"2.21,138.85","West Papua, Indonesia"
+02 Nov 2025,11:21:53 WIB,2.9,11,"7.26,114.63",Bali Sea
